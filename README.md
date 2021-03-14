@@ -1,4 +1,4 @@
-# Music-Genre-Classification
+# Music Genre Classification using Deep Learning
 The project uses Machine Learning and Deep Learning techniques to Classify music into 10 genres of music as provided in the GTZAN dataset. This was submitted as my final project.
 
 ### Approach
